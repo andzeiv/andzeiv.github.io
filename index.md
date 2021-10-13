@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
    <body>
         <h1><strong>Minu minimalistlik veebileht tervitab teid!</strong></h1>
